@@ -8,7 +8,7 @@ car = {
     
 }
 
-print("Factory:", car['factory'])
+print("Factory:", car['factory'])   
 print("Type:", car['type'])
 print("Year:", car['year'])
 print("Color:", car['color'])
